@@ -17,6 +17,7 @@ Some Knowledges i have:
 Currently Studying:
 - Machine Learning 🦾
 - Data Science 📊
+- Statistics
 
 🇧🇷 BR
 
@@ -35,3 +36,4 @@ Alguns conhecimentos que possuo:
 Estou estudando no momento:
 - Machine Learning
 - Data Science
+- Estatística
